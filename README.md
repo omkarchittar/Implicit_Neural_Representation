@@ -1,3 +1,4 @@
+# Implicit neural representation
 Implicit neural representations is about parameterizing a continuous differentiable signal with a neural network. The signal is encoded within the neural network, providing a possibly more compact representation or allowing smooth parameter-based manipulation of that signal. This is a type of regression problem.
 
 Applications of these learned representations range from simple compression, to 3D scene reconstruction from 2D images, super-resolution, semantic information inference, etc.
